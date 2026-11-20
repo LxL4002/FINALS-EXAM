@@ -1,4 +1,4 @@
-# Activity 5: Exploring and Improving AI Prompts
+# Activity 6: Exploring and Improving AI Prompts
 
 ## Activity Description
 
