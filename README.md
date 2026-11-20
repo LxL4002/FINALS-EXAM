@@ -52,21 +52,7 @@ Each activity folder contains its own README file, learning reflections, and cor
 
 ---
 
-### 📌 Course Information
 
-**Name:** Liezel P. Costillas
-
-**Course:** BS Nursing – 4
-
-**Subject:** 21st Century IT Skills
-
-**Class Code:** 99-039
-
-**Instructor:** Ariane Mae Mendez
-
-**School:** Ateneo de Davao University
-
-**Academic Year:** First Semester, 2026–2027
 
 ---
 
