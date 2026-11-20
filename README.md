@@ -1,25 +1,75 @@
-<div align="center"> PRELIM-EXAM
 
-## Compilation of Prelim Activities and Outputs
+<div align="center">
 
-**Name:** Liezel P. Costillas  
-**Course/Program:** BS Nursing  
-**Subject:** 2st Century IT Skills  
+# Hi, I'm Liezel P. Costillas! 👋
+
+<img src=img width="180" height="180" alt="vhh" src="https://github.com/user-attachments/assets/a58bb5a2-b273-4ce8-8f7c-bb56ffc1c344" />
+
+
+
+### BS Nursing – 4 | Ateneo de Davao University
+
+**21st Century IT Skills Portfolio**
+
+First Semester, Academic Year 2026–2027
+
+---
+
+### 👩‍🎓 About Me
+
+I am a fourth-year Bachelor of Science in Nursing student at Ateneo de Davao University. This portfolio showcases the activities, projects, and skills I have developed throughout the course of 21st Century IT Skills.
+
+Aside from my academic interests, I enjoy reading books, going for walks, and watching documentaries. I also enjoy exploring new things and learning skills that can help me grow personally and academically.
+
+---
+
+### 💻 Skills and Tools Learned
+
+| Skills / Tools | Description |
+|---|---|
+| Canva | Creating posters, infographics, and personal branding designs |
+| Google Sheets | Organizing data and using spreadsheet functions |
+| GitHub | Managing repositories and documenting projects |
+| ChatGPT & Claude AI | Prompt engineering and AI-generated content |
+| Website Development | Planning, designing, and creating websites |
+| Digital Productivity Tools | Creating and organizing digital documents and presentations |
+
+---
+
+### 📚 My Portfolio Activities
+
+| Activity | Title |
+|---|---|
+| 01 | Presentation Design Principles |
+| 02 | Personal Branding |
+| 03 | Social Media Infographics and Mini Project Documentation |
+| 04 | Google Sheets Presentation |
+| 05 | Exploring and Improving AI Prompts |
+| 06 | Website Development – Dog Care Website |
+| 07 | Resume Generating |
+
+Each activity folder contains its own README file, learning reflections, and corresponding outputs.
+
+---
+
+### 📌 Course Information
+
+**Name:** Liezel P. Costillas
+
+**Course:** BS Nursing – 4
+
+**Subject:** 21st Century IT Skills
+
 **Class Code:** 99-039
-**Instructor:** Ariane Mae Mendez 
-**Academic Year:** 1st Sem 2026–2027  
 
-## About This Repository
+**Instructor:** Ariane Mae Mendez
 
-This repository contains the activities and outputs completed during the Prelim quarter. The files are organized by activity for easy access and documentation.
+**School:** Ateneo de Davao University
 
-## Activities:
+**Academic Year:** First Semester, 2026–2027
 
-### Activity 1: Presentation Design Principles
-Outputs related to the principles and techniques of effective presentation design.
+---
 
-### Activity 2: Personal Branding
-Outputs focused on personal branding and the development of a professional personal identity.
+*Thank you for visiting my portfolio!*
 
-### Activity 3: Social Media Infographics & Project Documentation
-Outputs related to social media infographic design and project documentation.
+</div>
