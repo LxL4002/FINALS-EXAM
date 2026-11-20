@@ -3,7 +3,7 @@
 
 # Hi, I'm Liezel P. Costillas! 👋
 
-<img src=img width="180" height="180" alt="vhh" src="https://github.com/user-attachments/assets/a58bb5a2-b273-4ce8-8f7c-bb56ffc1c344" />
+<img width="180" height="180" alt="vhh" src="https://github.com/user-attachments/assets/dfa70af7-ca1d-4aea-beca-379e926eb361" />
 
 
 
