@@ -1,5 +1,4 @@
-
-<div align="center">
+ <div align="center" style="background-color: #DCEBFA; padding: 30px; border-radius: 12px;">
 
 # Hi, I'm Liezel P. Costillas! 👋
 
