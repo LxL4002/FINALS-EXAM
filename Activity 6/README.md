@@ -1,4 +1,4 @@
-# Activity 6: Exploring and Improving AI Prompts
+<h1 align="center"> 💻 Activity 6: Exploring and Improving AI Prompts
 
 ## Activity Description
 
