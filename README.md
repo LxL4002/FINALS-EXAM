@@ -55,5 +55,5 @@ Each activity folder contains its own README file, learning reflections, and cor
 
 ---
 
-## ***Thank you for visiting my portfolio!*
+## *Thank you for visiting my portfolio!*
 </div>
