@@ -1,12 +1,12 @@
 <div align="center" style="background-color: #DCEBFA; padding: 30px; border-radius: 12px;">
 
-# Hi, I'm Liezel P. Costillas! 👋
+<h1># Hi, I'm Liezel P. Costillas! 👋<h1>
 
 <img width="180" height="180" alt="vhh" src="https://github.com/user-attachments/assets/dfa70af7-ca1d-4aea-beca-379e926eb361" />
 
 
 
-### BS Nursing – 4 | Ateneo de Davao University
+<h3>BS Nursing – 4 | Ateneo de Davao University<h3>
 
 **21st Century IT Skills Portfolio**
 
