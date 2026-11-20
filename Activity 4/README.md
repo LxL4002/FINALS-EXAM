@@ -1,4 +1,4 @@
-# Activity 4: Google Sheets Presentation
+<h1 align="center"> 📊 Activity 4: Google Sheets Presentation
 
 ## Activity Description
 
