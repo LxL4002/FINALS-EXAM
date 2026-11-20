@@ -1,5 +1,4 @@
-
-# Activity 7: Resume Generating
+<h1 align="center"> 📄 Activity 7: Resume Generating
 
 ## Activity Description
 
